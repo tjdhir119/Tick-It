@@ -11,10 +11,13 @@ The purpose of this project was to create a functioning webpage for both user an
 Here are some of the UML diagrams we made to design the architecture and workings of our portal.
 
 **ER Diagram**
+<img width="631" alt="Screenshot 2023-05-19 at 10 46 55 PM" src="https://github.com/tjdhir119/Tick-It/assets/82453500/09a637a4-3e5f-4c2c-8762-20bbc37806e0">
 
 **Class Diagram**
+<img width="601" alt="Screenshot 2023-05-19 at 10 47 13 PM" src="https://github.com/tjdhir119/Tick-It/assets/82453500/cee76f6c-c4b0-4a7e-b13c-1629589b479a">
 
-**Interaction Diagram**
+**Interaction Diagram**  
+<img width="509" alt="Screenshot 2023-05-19 at 10 47 39 PM" src="https://github.com/tjdhir119/Tick-It/assets/82453500/66e87ac1-3496-4d8c-a73d-590add13f225">
 
 ## Conclusion
 After the completion of this project, we were able to understand and have a better grasp on what actually goes into designing a website. The primary hitches we faced were in the overall display of the website, which was handled over time, with feedback, and we learned the backend for this project while going through it. Overall, this project has contributed to our growth and development, and due to it, we understand the code that goes “under the hood”, or behind the scenes of each website, so to speak. 
